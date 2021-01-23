@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+}
+
+* {
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.info-navigation {
+  color: #846ae1;
+  font-weight: bold;
+}
+
+.info-image {
+  display: inline-block;
+  width: 33%;
+  height: 33%;
+}
+
+.info-text {
+  display: inline-block;
+  width: 33%;
+}
+
+.info-title {
+  font-size: 30px;
+}
+
+.info-call-to-action {
+  text-align: left;
+}
+
+.info {
+  text-align: center;
+}
+
+.info--gray {
+  background-color: #f0f0f0;
+}
+
+header {
+  background-color: #512bd4;
+  color: #fff;
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.icon {
+  font-family: dotnet;
+}
+
+.features-article h3 {
+  color: #512bd4;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.navigation-item {
+  display: inline-block;
+}
+
+.navigation-item a {
+  color: rgba(0, 0, 0, 0.9);
+  text-decoration: none;
+}
+
+.header-call-to-action {
+  background-color: #fff;
+  color: #512bd4;
+  font-weight: bold;
+  width: 150px;
+  line-height: 30px;
+  border-style: solid;
+  border-color: #fff;
+  font-size: 15px;
+}
+
+.header-secondary {
+  background-color: #512bd4;
+  color: #fff;
+  width: 150px;
+  line-height: 30px;
+  font-size: 15px;
+  border-color: #fff;
+  font-weight: 500;
+  border-style: solid;
+}
+
+.page-break {
+  height: 1000px;
+}
